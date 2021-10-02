@@ -1,0 +1,5 @@
+﻿  57cmasmas.cpp
+C:\Users\super\source\repos\57cmasmas\57cmasmas\57cmasmas.cpp(5,22): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\super\source\repos\57cmasmas\57cmasmas\57cmasmas.cpp(7,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\super\source\repos\57cmasmas\57cmasmas\57cmasmas.cpp(16,27): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  57cmasmas.vcxproj -> C:\Users\super\source\repos\57cmasmas\Debug\57cmasmas.exe

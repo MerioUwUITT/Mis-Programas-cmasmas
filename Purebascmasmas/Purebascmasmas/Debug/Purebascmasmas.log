@@ -1,0 +1,3 @@
+﻿  Purebascmasmas.cpp
+C:\Users\super\source\repos\Purebascmasmas\Purebascmasmas\Purebascmasmas.cpp(5,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Purebascmasmas.vcxproj -> C:\Users\super\source\repos\Purebascmasmas\Debug\Purebascmasmas.exe

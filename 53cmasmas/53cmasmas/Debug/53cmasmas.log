@@ -1,0 +1,3 @@
+﻿  53cmasmas.cpp
+C:\Users\super\source\repos\53cmasmas\53cmasmas\53cmasmas.cpp(7,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  53cmasmas.vcxproj -> C:\Users\super\source\repos\53cmasmas\Debug\53cmasmas.exe
